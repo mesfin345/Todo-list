@@ -1,4 +1,5 @@
-import "./style.css";
+import 'lodash';
+import './style.css';
 import TodoList from "./modules/TodoTask.js";
 
 const list = document.querySelector(".lists");
