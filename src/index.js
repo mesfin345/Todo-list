@@ -1,2 +1,2 @@
-import "lodash";
-import "./style.css";
+import 'lodash';
+import './style.css';
