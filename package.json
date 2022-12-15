@@ -4,10 +4,8 @@
   "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
   "private": true,
   "scripts": {
-    "test": "jest --coverage --verbose --watch",
     "start": "webpack serve --open",
-    "build": "webpack --mode=development",
-    "deploy": "gh-pages -d dist"
+    "build": "webpack --mode=development"
   },
   "repository": {
     "type": "git",
